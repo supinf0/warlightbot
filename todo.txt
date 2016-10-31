@@ -1,0 +1,7 @@
+
+TODO list
+
+ - write todo list
+ - decide programming language
+ - add readme, license (maybe), .gitignore
+ - 
