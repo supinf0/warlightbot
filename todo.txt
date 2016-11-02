@@ -1,11 +1,11 @@
 
 TODO list
 
- - decide programming language
  - add readme, license (maybe), .gitignore
  - 
 
 DONE list
 
  - write todo list
+ - decide programming language : rust
  - 
