@@ -1,5 +1,7 @@
 TODO list
  - add readme, license (maybe), .gitignore
+ - setup tests with a text file
+ - 
  - 
 
 
