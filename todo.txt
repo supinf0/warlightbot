@@ -1,8 +1,9 @@
 TODO list
  - add readme, license (maybe), .gitignore
  - setup tests with a text file
- - 
- - 
+ - (supinf0) setup ssh keys if possible
+ - make bot for test1,test2,test3
+ - make output to stderr
 
 
 DONE list

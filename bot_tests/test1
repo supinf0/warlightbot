@@ -1,0 +1,5 @@
+settings timebank 10000
+settings time_per_move 500
+settings max_rounds 50
+settings your_bot player1
+settings opponent_bot player2
